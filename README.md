@@ -3,8 +3,9 @@ Example project to evaluate OPA in combination with Terraform.
 Could be used for sanity checks before deploying the infrastructure.
 
 ## Prerequisites
-Install [Terraform CLI][terraform_cli]
-Install [OPA CLI][opa_cli]
+- Install [Terraform CLI][terraform_cli]
+- Install [OPA CLI][opa_cli]
+
 ## Run policy check
 
 ## Run score check
